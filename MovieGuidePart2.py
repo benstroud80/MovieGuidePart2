@@ -1,3 +1,7 @@
+#Benjamin Stroud
+#CIS 261 
+#Movie List Lab part 2
+
 FILENAME = 'Movies.txt'
 
 def write_movies(movies):
